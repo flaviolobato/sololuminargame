@@ -67,7 +67,7 @@ function modulo(){
     botao3.onclick = definaVida
 
     botao4.innerText = 'E caso eu não queira mais viver?'
-    botao4.onclick = morte
+    botao4.onclick = saidaErrada
 }
 
 function definaVida(){
